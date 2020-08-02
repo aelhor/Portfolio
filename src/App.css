@@ -1,0 +1,95 @@
+.App {
+  text-align: center;
+}
+
+
+
+/* about  */
+.demo-grid-2 { 
+  background : #ccc;
+  margin-top: 100px auto ;
+  padding: 10px;
+  border-radius:20px; 
+}
+
+
+/* resume */
+.demo-grid-1 { 
+  margin-top: 100px ;
+
+}
+.resume-phone-head { 
+  margin-top:20px;
+  height :400px
+}
+/* resume disktop / tablet  */
+.resume-disktop-left-side {
+  position: fixed;
+  margin-left: 20px;
+  background : #FFF; 
+  color: #FFF
+}
+.resume-disktop-left-side ul li a { 
+  margin: auto;
+  color: #17a2b8;
+  font-size: 24px;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+
+}
+/* resume content */
+.resume-content { 
+  background-color: #EEE;
+}
+
+.resume-section { 
+  text-align : left;
+  padding-left : 10px
+}
+.progressbar  { 
+  padding-left: 3px;
+  display: block;
+}
+.section-title { 
+  text-align: left;
+  color: white;
+  padding-left : 3px;
+  text-shadow: 2px 2px 4px #000000;
+}
+/* skills */
+.skill-sub-title { 
+  padding: 5px; 
+  font-style: italic; 
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  color: #6c757d; 
+  font-size:small
+}
+
+/* contact */
+.social-media{ 
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 3.5rem;
+  width: 3.5rem;
+  color : #6c757d;
+  background-color: #FFF;
+  border-radius: 100%;
+  font-size: 1.5rem;
+  margin-right: 1.5rem;
+  box-shadow: 4px 4px 8px #9E9E9E;
+}
+
+
+/* global classes */
+.sub-title { 
+  color : #222; 
+  font-weight: bold;
+}
+
+img { 
+  height : 70%;
+  width: 60%; 
+  border-radius: 50%;
+  margin-top:20px;
+
+}
